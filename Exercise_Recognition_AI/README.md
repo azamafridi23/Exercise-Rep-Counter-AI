@@ -35,7 +35,8 @@ This project leverages:
 - Google MediaPipe: For real-time pose estimation and joint angle calculation.
 - Jupyter Notebook: For data analysis and model training.
 
-##### Pose Tracking Full Body Landmarks:
+#### Pose Tracking Full Body Landmarks:
+![pose_tracking_full_body_landmarks.png](pose_tracking_full_body_landmarks.png)
 
 
 ### Installation
@@ -76,8 +77,6 @@ Using joint angles computed from the body landmarks, the system tracks and count
 A guided process for generating labeled training data, which is essential for training the custom models. The pipeline simplifies data collection and preprocessing for deep learning.
 
 5. Visualization Tools
-Visualize the exercise performance in real-time with:
-
-Joint angle graphs.
-Rep counters.
-Probability distributions showing the likelihood of the detected exercise.
+	- Visualize the exercise performance in real-time with:
+	- Joint angle graphs.Rep counters.
+	- Probability distributions showing the likelihood of the detected exercise.
