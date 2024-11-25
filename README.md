@@ -8,6 +8,10 @@ This project leverages advanced AI 🤖 and computer vision 👁️ to detect ex
 
 
 
+https://github.com/user-attachments/assets/31fe381c-61c9-41b7-9dd1-e60f9a5c99e4
+
+
+
 ### Features
 This project leverages:
 
