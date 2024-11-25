@@ -1,7 +1,7 @@
 
-# Exercise Rep Counter AI
+# Exercise Rep Counter AI 🤖
 
-This project leverages advanced AI and computer vision to detect exercises in real-time, counting repetitions based on webcam footage. By utilizing OpenCV for camera access, TensorFlow/Keras for custom deep learning models, and MediaPipe for human pose estimation, this system can recognize exercises, count reps, and provide useful visualizations such as joint angles and exercise probabilities. The project is designed to be easily run on a local machine, with clear installation and setup instructions.
+This project leverages advanced AI 🤖 and computer vision 👁️ to detect exercises in real-time, counting repetitions based on webcam footage 📷. By utilizing OpenCV for camera access, TensorFlow/Keras for custom deep learning models, and MediaPipe for human pose estimation, the system accurately recognizes exercises, tracks repetitions, and provides insightful visualizations such as joint angles and exercise probabilities. Designed for ease of use, this project can be seamlessly run on a local machine, with clear installation and setup instructions.
 
 ## Demo
 - Video:
